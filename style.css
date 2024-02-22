@@ -149,7 +149,7 @@ section {
 }
 
 .projects {
-    background-color: #000016;
+    background-color: #2d2c2c;
 }
 
 .projects .content{
@@ -165,10 +165,11 @@ section {
     border-radius: 10px;
     margin: 20px;
     transition: 0.7s ease;
+    box-shadow: #000;
 }
 
 .project-card:hover {
-   transform: scale(1.5);
+   transform: scale(1.2);
 }
 
 .project-card:hover .project-image {
