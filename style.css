@@ -169,7 +169,7 @@ section {
 }
 
 .project-card:hover {
-   transform: scale(1.1);
+   transform: scale(0);
 }
 
 .project-card:hover .project-image {
@@ -186,7 +186,7 @@ section {
 }
 
 .project-category {
-    font-size: 0.6em;
+    font-size: 1em;
     color: #000;
 }
 
