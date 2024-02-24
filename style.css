@@ -169,7 +169,7 @@ section {
 }
 
 .project-card:hover {
-   transform: scale(0);
+   transform: scale(1.1);
 }
 
 .project-card:hover .project-image {
