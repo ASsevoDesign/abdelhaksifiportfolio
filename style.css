@@ -149,7 +149,7 @@ section {
 }
 
 .projects {
-    background-color: #2d2c2c;
+    background-color: #5f5c5c;
 }
 
 .projects .content{
@@ -169,7 +169,7 @@ section {
 }
 
 .project-card:hover {
-   transform: scale(1.2);
+   transform: scale(1.1);
 }
 
 .project-card:hover .project-image {
@@ -186,7 +186,7 @@ section {
 }
 
 .project-category {
-    font-size: 0.8em;
+    font-size: 1.8em;
     color: #000;
 }
 
@@ -196,15 +196,6 @@ section {
     text-transform: uppercase;
     font-weight: 800;
     margin-top: 10px;
-}
-
-.more-details {
-    text-decoration: none;
-    color: #3a6cf4;
-}
-
-.more-details:hover {
-    color: #601cfc;
 }
 
 .contact .icon{
